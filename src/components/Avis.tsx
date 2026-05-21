@@ -1,3 +1,4 @@
+'use client'
 /* ─────────────────────────────────────────────────
    Avis.tsx — Double marquee d'avis clients
    Deux rangées : gauche et droite

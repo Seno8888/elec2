@@ -1,3 +1,4 @@
+'use client'
 /* ─────────────────────────────────────────────────
    Engagements.tsx — 4 blocs rassurants
    Fond slate-50, hover léger sur chaque item

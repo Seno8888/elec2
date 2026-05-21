@@ -1,3 +1,4 @@
+'use client'
 /* ─────────────────────────────────────────────────
    APropos.tsx — Présentation + certifications
    Fond sombre, image gauche, texte droit

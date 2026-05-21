@@ -1,3 +1,4 @@
+'use client'
 /* ─────────────────────────────────────────────────
    Stats.tsx — Bande de chiffres clés
    4 métriques sur fond blanc, avec séparateurs

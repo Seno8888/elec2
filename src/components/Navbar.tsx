@@ -1,3 +1,4 @@
+'use client'
 /* ─────────────────────────────────────────────────
    Navbar.tsx — Pill flottant, fond blanc
    - Scroll shadow

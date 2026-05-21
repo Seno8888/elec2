@@ -1,3 +1,4 @@
+'use client'
 /* ─────────────────────────────────────────────────
    Process.tsx — Comment ça marche
    3 étapes numérotées avec connexion visuelle

@@ -1,3 +1,4 @@
+'use client'
 /* ─────────────────────────────────────────────────
    Contact.tsx — Panneau sombre gauche + formulaire
    Fond sombre dégradé, formulaire blanc à droite
